@@ -28,55 +28,55 @@ Hi, I'm **Sourabh Kapure**, a passionate Web3 builder and blockchain developer c
 
 ## 🔧 Technical Stack
 
-| Category | Skills |
-|----------|--------|
-| **Blockchain** | Solidity, Web3.js, Hardhat, Truffle, OpenZeppelin |
-| **Frontend** | React.js, ethers.js, IPFS, Next.js |
-| **Development** | JavaScript, TypeScript, Python, REST APIs |
+| Category           | Skills                                              |
+|--------------------|-----------------------------------------------------|
+| **Blockchain**     | Solidity, Web3.js, Hardhat, Truffle, OpenZeppelin   |
+| **Frontend**       | React.js, ethers.js, IPFS, Next.js                  |
+| **Development**    | JavaScript, TypeScript, Python, REST APIs           |
 | **Tools & Platforms** | MetaMask, Alchemy, Infura, The Graph, Git/GitHub |
 
 ---
 
 # 🚀 Projects
 
-## AgriVerify - Blockchain-Powered Supply Chain Verification
+### AgriVerify - Blockchain-Powered Supply Chain Verification
 
-AgriVerify is a decentralized application (dApp) revolutionizing trust and transparency in organic farming through blockchain technology. Built on Ethereum, this project empowers farmers with tamper-proof certifications while providing consumers with blockchain-verified authenticity checks.
+**AgriVerify** is a decentralized application (dApp) revolutionizing trust and transparency in organic farming through blockchain technology. Built on Ethereum, this project empowers farmers with tamper-proof certifications and provides consumers with blockchain-verified authenticity checks.
 
 **Technical Stack & Features:**
 
-- **Smart Contracts**: 
+- **Smart Contracts**:
   - Solidity (v0.8.20) for secure on-chain verification
   - OpenZeppelin contracts for battle-tested security
   - Hardhat for robust testing and deployment
 
-- **Web3 Integration**: 
+- **Web3 Integration**:
   - ethers.js for seamless blockchain interaction
   - MetaMask for secure wallet connectivity
   - IPFS for decentralized data storage
 
-- **Frontend**: 
+- **Frontend**:
   - React.js for responsive dApp interface
   - Web3 Modal for wallet integration
   - node-qrcode for blockchain-verified certificates
 
 This project showcases my ability to build production-ready dApps that solve real-world problems through blockchain technology.
 
-## Automated License Plate Recognition System
+### Automated License Plate Recognition System
 
-One of my standout projects is an **Automated License Plate Recognition system**. I developed this using Machine Learning and Deep Learning techniques, employing:
+A **standout project** is my **Automated License Plate Recognition system**, which I developed using Machine Learning and Deep Learning techniques:
 
-- Custom CNN model
-- Transfer learning with Inception-ResNet-V2 for plate detection and recognition
-- OCR for text extraction
+- **Custom CNN model**
+- **Transfer learning** with Inception-ResNet-V2 for plate detection and recognition
+- **OCR** for text extraction
 
-This project demonstrates my ability to leverage AI for real-world applications.
+This project demonstrates my capability in applying AI to real-world applications.
 
 ---
 
 ## 🎯 What I'm Excited About
 
-I'm actively building in the Web3 space and looking for opportunities to innovate. Current focus:
+I'm actively building in the Web3 space and am enthusiastic about:
 
 - Building & shipping decentralized applications
 - Contributing to DeFi protocols
