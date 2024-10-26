@@ -28,16 +28,16 @@ Hi, I'm **Sourabh Kapure**, a passionate Web3 builder and blockchain developer c
 
 ## 🔧 Technical Stack
 
-| Category           | Skills                                              |
-|--------------------|-----------------------------------------------------|
-| **Blockchain**     | Solidity, Web3.js, Hardhat, OpenZeppelin            |
-| **Frontend**       | React.js, ethers.js,                                |
-| **Development**    | JavaScript, Python, REST APIs                       |
+| Category | Skills |
+|----------|--------|
+| **Blockchain** | Solidity, Web3.js, Hardhat, OpenZeppelin |
+| **Frontend** | React.js, ethers.js |
+| **Development** | JavaScript, Python, REST APIs |
 | **Tools & Platforms** | MetaMask, Alchemy, Infura, The Graph, Git/GitHub |
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
 ### AgriVerify - Blockchain-Powered Supply Chain Verification
 
@@ -53,7 +53,6 @@ Hi, I'm **Sourabh Kapure**, a passionate Web3 builder and blockchain developer c
 - **Web3 Integration**:
   - ethers.js for seamless blockchain interaction
   - MetaMask for secure wallet connectivity
-  - IPFS for decentralized data storage
 
 - **Frontend**:
   - React.js for responsive dApp interface
@@ -66,9 +65,11 @@ This project showcases my ability to build production-ready dApps that solve rea
 
 A **standout project** is my **Automated License Plate Recognition system**, which I developed using Machine Learning and Deep Learning techniques:
 
-- **Custom CNN model**
-- **Transfer learning** with Inception-ResNet-V2 for plate detection and recognition
-- **OCR** for text extraction
+* Developed a Machine Learning-based Vehicle Number Plate Recognition (VNPR) system for Indian vehicles
+* Implemented a custom CNN model for plate detection and recognition
+* Utilized transfer learning with Inception-ResNet-V2 for improved performance
+* Applied data augmentation techniques for real-time inference optimization
+* Integrated OCR for text extraction from detected plates
 
 This project demonstrates my capability in applying AI to real-world applications.
 
@@ -96,6 +97,6 @@ Connect with me to discuss Web3, collaborate on projects, or explore the future 
 Let's build the decentralized future together! 🚀
 
 <!---
-Spkap/Spkap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Spkap/Spkap is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
