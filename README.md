@@ -31,7 +31,7 @@ Hi, I'm **Sourabh Kapure**, a passionate Web3 builder and blockchain developer c
 | Category           | Skills                                              |
 |--------------------|-----------------------------------------------------|
 | **Blockchain**     | Solidity, Web3.js, Hardhat, OpenZeppelin            |
-| **Frontend**       | React.js, ethers.js, IPFS, Next.js                  |
+| **Frontend**       | React.js, ethers.js,                                |
 | **Development**    | JavaScript, Python, REST APIs                       |
 | **Tools & Platforms** | MetaMask, Alchemy, Infura, The Graph, Git/GitHub |
 
