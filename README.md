@@ -37,44 +37,6 @@ Hi, I'm **Sourabh Kapure**, a passionate Web3 builder and blockchain developer c
 
 ---
 
-## 🚀 Projects
-
-### AgriVerify - Blockchain-Powered Supply Chain Verification
-
-**AgriVerify** is a decentralized application (dApp) revolutionizing trust and transparency in organic farming through blockchain technology. Built on Ethereum, this project empowers farmers with tamper-proof certifications and provides consumers with blockchain-verified authenticity checks.
-
-**Technical Stack & Features:**
-
-- **Smart Contracts**:
-  - Solidity (v0.8.20) for secure on-chain verification
-  - OpenZeppelin contracts for battle-tested security
-  - Hardhat for robust testing and deployment
-
-- **Web3 Integration**:
-  - ethers.js for seamless blockchain interaction
-  - MetaMask for secure wallet connectivity
-
-- **Frontend**:
-  - React.js for responsive dApp interface
-  - Web3 Modal for wallet integration
-  - node-qrcode for blockchain-verified certificates
-
-This project showcases my ability to build production-ready dApps that solve real-world problems through blockchain technology.
-
-### Automated License Plate Recognition System
-
-A **standout project** is my **Automated License Plate Recognition system**, which I developed using Machine Learning and Deep Learning techniques:
-
-* Developed a Machine Learning-based Vehicle Number Plate Recognition (VNPR) system for Indian vehicles
-* Implemented a custom CNN model for plate detection and recognition
-* Utilized transfer learning with Inception-ResNet-V2 for improved performance
-* Applied data augmentation techniques for real-time inference optimization
-* Integrated OCR for text extraction from detected plates
-
-This project demonstrates my capability in applying AI to real-world applications.
-
----
-
 ## 🎯 What I'm Excited About
 
 I'm actively building in the Web3 space and am enthusiastic about:
