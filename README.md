@@ -6,7 +6,7 @@ Hello! I’m Sourabh Kapure, a developer passionate about exploring the intersec
 
 ### ETHIndia 2024 Winner  
 **1st Best zk Dapp on Polygon zkEVM Track**  
-Our project, **[zKonnect](https://github.com/swrjsingh/ETH24Submission)**, won the **1st Place for Best zk Dapp** award on the **Polygon zkEVM Track** at **ETHIndia 2024**.  
+Our project, **[zKonnect](https://devfolio.co/projects/zkonnect-119f)**, won the **1st Place for Best zk Dapp** award on the **Polygon zkEVM Track** at **ETHIndia 2024**.  
 
 We built **zKonnect**, a privacy-preserving ticketing platform powered by zkSNARKs to address unauthorized ticket resales. The system binds tickets to the buyer's identity, preventing resale while safeguarding personal data. Designed for high-demand events, it ensures secure and transparent ticketing with robust enforcement against black market activity.  
 
