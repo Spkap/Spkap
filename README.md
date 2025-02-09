@@ -1,4 +1,3 @@
-[![Visitor Count](https://visitcount.itsvg.in/api?id=spkap&icon=9&color=3)](https://visitcount.itsvg.in)
 # Sourabh Kapure  
 
 ## Developer | Builder | Lifelong Learner
