@@ -9,24 +9,22 @@ Hello! I’m Sourabh Kapure, a developer passionate about exploring the intersec
 Led development of **[zKonnect](https://devfolio.co/projects/zkonnect-119f)**, a privacy-preserving ticketing platform using zkSNARKs to combat unauthorized resales. Achieved **1st Place** in the Polygon zkEVM Track by binding tickets to buyer identities while safeguarding personal data.
 
 ### Core Skill Set  
-- **Fullstack Development:** Building responsive and interactive web applications using **React** and **Django**
+- **Fullstack Development:** Building responsive and interactive web applications using **React** and **Django**. 
 - **Deep Learning & Data Science:** Experienced in using **PyTorch** for developing **Neural Networks (NNs)**, **Convolutional Neural Networks (CNNs)**, and **Computer Vision (CV)** applications.  
-- **Security & Scaling:** Focused on **smart contract security** and **Layer 2 scaling solutions** to create reliable and efficient systems.  
 - **Full-Stack dApp Development:** Developing responsive and high-performance **Web3** applications.
 
 ### 🌱 Current Focus  
 - Advancing expertise in **Zero-Knowledge Proofs**
 - Exploring **NLP** and **GANs**
+- Open-source contribition
 
 ### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -47,11 +45,11 @@ Led development of **[zKonnect](https://devfolio.co/projects/zkonnect-119f)**, a
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🤝 Collaboration Interests  
+### 🤝 Collaboration Interests
+- Open-source initiatives
 - AI/Blockchain fusion projects
 - Deep learning and **NLP**-based projects  
-- Scalable dApps with robust backend systems  
-- Open-source initiatives
+- Scalable apps with robust backend systems  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabhkapure)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sourabhkapure)
