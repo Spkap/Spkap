@@ -6,7 +6,7 @@ Hello! I’m Sourabh Kapure, a developer passionate about exploring the intersec
 
 ### 🏆 ETHIndia 2024 Winner  
 **1st Best zk Dapp on Polygon zkEVM Track**  
-Led development of **[zKonnect](https://devfolio.co/projects/zkonnect-119f)**, a privacy-preserving ticketing platform using zkSNARKs to combat unauthorized resales. Achieved **1st Place** in the Polygon zkEVM Track by binding tickets to buyer identities while safeguarding personal data.
+Built **[zKonnect](https://devfolio.co/projects/zkonnect-119f)**, a privacy-preserving ticketing platform using zkSNARKs to combat unauthorized resales. Achieved **1st Place** in the Polygon zkEVM Track by binding tickets to buyer identities while safeguarding personal data.
 
 ### Core Skill Set  
 - **Fullstack Development:** Building responsive and interactive web applications using **React** and **Django**. 
