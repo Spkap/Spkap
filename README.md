@@ -8,7 +8,7 @@ Hello! I'm Sourabh, a developer passionate about building at the intersection of
 ### 🏆 Highlight
 
 **ETHIndia 2024 Hackathon Winner — 1st Place, Best zkDApp on Polygon zkEVM Track**
-- Built **zKonnect**, a cutting-edge, privacy-preserving ticketing platform using **Zero-Knowledge Proofs (zk-SNARKs)** to eliminate fraud.
+- Built **[zKonnect](https://devfolio.co/projects/zkonnect-119f)**, a cutting-edge, privacy-preserving ticketing platform using **Zero-Knowledge Proofs (zk-SNARKs)** to eliminate fraud.
 - Awarded first place among **250+ teams** for delivering a high-impact and technically feasible zk solution.
 
 ---
